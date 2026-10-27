@@ -1,0 +1,15 @@
+AANBA TV is an independent community client, not an official product of
+AANBA, VK, YouTube, ESPN, NBA, WNBA, or their teams.
+
+MIT applies to the original application source code. Team logos, names,
+YouTube thumbnails, videos, and captured third-party API responses remain
+attributed to their respective owners and are not relicensed under MIT.
+Packaged team marks originate from ESPN team-logo endpoints; the source
+manifest is app/src/main/assets/teams.json. Bundled YouTube picks are public
+AANBA channel metadata and thumbnail images, dated in youtube-picks.json.
+No video broadcast is bundled or hosted by this project.
+
+Gradle Wrapper is a Gradle distribution component under its own license
+(Apache-2.0); https://github.com/gradle/gradle/blob/master/LICENSE .
+Build-time Android Gradle tooling and test dependencies retain their own
+licenses. There are no external runtime SDK dependencies in the application.
